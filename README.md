@@ -28,4 +28,4 @@ LeaveManagement.API is a RESTful API developed to manage employee leave requests
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/LeaveManagement.API.git](https://github.com/yourusername/LeaveManagement.API.git)
+   git clone https://github.com/Ghenart/LeaveManagement.API.git
