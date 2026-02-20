@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleApi.Test/SimpleApi.Test.csproj" Id="db77885e-5ccf-412b-bf96-3e717f4c213c" />
+  <Project Path="SimpleApi/SimpleApi.csproj" />
+</Solution>

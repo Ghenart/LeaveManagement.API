@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace SimpleApi.Models
+{
+    public class AuditLog
+    {
+        public int Id { get; set; }
+
+        public string Username { get; set; } = string.Empty;
+
+        public string Action { get; set; } = string.Empty;
+
+        public string EntityName { get; set; } = string.Empty;
+
+        public int EntityId { get; set; }
+
+        public DateTime Timestamp { get; set; } = DateTime.Now;
+    }
+}
